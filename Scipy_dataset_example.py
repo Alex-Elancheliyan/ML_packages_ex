@@ -20,8 +20,8 @@ print(r_value)
 print(p_value)
 
 print('''----------------------------------------''')
-#perform T test
 
+#PERFORMING T TEST
 group1= np.array([23,25,18,27,21])
 group2= np.array([30,29,31,28,27])
 t_statistics, p_value = stats.ttest_ind(x,y)
