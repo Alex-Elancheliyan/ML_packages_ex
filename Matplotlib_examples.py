@@ -4,7 +4,7 @@ x=[1,2,3,4,5]
 y=[2,4,6,8,10]
 
 
-#LIne chart
+#LINE CHART
 #shows the connectivity b/w data
 plt.plot(x,y,marker='o')
 
