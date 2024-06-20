@@ -8,7 +8,7 @@ y=[2,4,6,8,10]
 #shows the connectivity b/w data
 plt.plot(x,y,marker='o')
 
-# adding labels names to the plotting
+#Adding labels names to the plotting
 
 plt.xlabel('X-Axis')
 plt.ylabel('Y-Axis')
