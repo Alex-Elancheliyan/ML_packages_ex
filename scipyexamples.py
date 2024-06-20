@@ -2,7 +2,7 @@
 from scipy.special import factorial
 
 n=5
-result=factorial(n,exact=True) #exact is used to eliminate the decimal op
+result=factorial(n,exact=True) #Exact is used to eliminate the decimal op
 print("Factorial of",n,"is",result)
 '''
 '''
